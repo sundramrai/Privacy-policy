@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - Tank Shoo</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 30px auto; padding: 0 15px; color: #333; }
+    h1, h2, h3 { color: #0056b3; }
+    a { color: #0056b3; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Tank Shoo</h1>
+  <p>Last updated: <strong>October 2025</strong></p>
+
+  <p>Welcome to <strong>Tank Shoo</strong>, developed by <strong>Sonalee</strong>. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>We collect the following types of information to provide and improve the app experience:</p>
+  <ul>
+    <li><strong>Firebase Authentication:</strong> We use Firebase Authentication to verify user identity. This may collect your email address or authentication tokens for login purposes.</li>
+    <li><strong>Advertising Data:</strong> Third-party ad providers (Unity Ads, IronSource) may collect device identifiers, ad engagement data, and other non-personal information to show relevant ads.</li>
+    <li><strong>Device Information:</strong> Basic device information such as model, OS version, and app version may be collected automatically for analytics and debugging.</li>
+  </ul>
+
+  <h2>2. How We Use Information</h2>
+  <ul>
+    <li>To provide login and account features via Firebase Authentication.</li>
+    <li>To serve personalized ads through Unity Ads and IronSource.</li>
+    <li>To analyze app performance and improve gameplay experience.</li>
+  </ul>
+
+  <h2>3. Third-Party Services</h2>
+  <p>We may use third-party services that collect information independently. Please review their privacy policies:</p>
+  <ul>
+    <li><a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Privacy Policy</a></li>
+    <li><a href="https://unity.com/legal/privacy-policy" target="_blank">Unity Ads Privacy Policy</a></li>
+    <li><a href="https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/" target="_blank">IronSource Privacy Policy</a></li>
+  </ul>
+
+  <h2>4. Data Retention and Security</h2>
+  <p>We retain user data only as long as necessary for the purposes described. We implement reasonable security measures to protect data from unauthorized access or disclosure.</p>
+
+  <h2>5. Children’s Privacy</h2>
+  <p>Our app is intended for the general public aged 12 and above. We do not knowingly collect personal information from children under 12 years of age. If you believe your child has provided personal data, please contact us for removal.</p>
+
+  <h2>6. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.</p>
+
+  <h2>7. Contact Us</h2>
+  <p>If you have questions about this Privacy Policy or your data, please contact us at:</p>
+  <p><strong>Email:</strong> <a href="mailto:sundram.iisindia@gmail.com">sundram.iisindia@gmail.com</a></p>
+
+  <p>By using <strong>Tank Shoo</strong>, you agree to this Privacy Policy.</p>
+
+  <hr />
+  <p style="text-align:center; font-size:14px; color:#666;">© 2025 Sonalee. All rights reserved.</p>
+</body>
+</html>
